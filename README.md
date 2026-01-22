@@ -49,7 +49,7 @@ I am equally interested in deriving insights from data and building interpretabl
 <div align="center">
 <table width="1000">
 
-  <tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/your-username/ai-salary-prediction">
@@ -62,30 +62,30 @@ Built and evaluated interpretable regression models to understand the drivers of
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/capstone_project_final_report)
 
 **Tools:** Python, Pandas, NumPy, Scikit-Learn, matplotlib, seaborn  
-
- 
-
 </td>
-<td width="50%" valign="top">
 
-<a href="https://github.com/your-username/hospital-los-modeling">
-  <img src="https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression/blob/main/heatmap1.png?raw=true" width="100%" />
+
+<td width="50%" valign="top">
+<a href="https://github.com/your-username/sql-analytics-validation">
+  <img src="https://github.com/marlonkolivas/practical_application_two/blob/main/images/top_ten_features_driving_car_price_ridge_regression.png?raw=true" alt="SQL Analytics Cover" width="100%" />
 </a>
 
-#### `Explaining California Housing Prices Using Linear Regression`
+#### 🗄️ `What Drives the Price of a Car?`
 
-Built an interpretable linear regression model to explain and predict median house values in California districts using census-derived numeric features.
+Analyze and determine the key factors influencing the question: “What drives the price of a car?”
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression)
+<br>
 
-**Tools:** Python, Pandas, Linear Regression  
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/practical_application_two)
 
-
+**Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn  
 </td>
 </tr>
+
+
+
 <tr>
 <td width="50%" valign="top">
-
 <a href="https://github.com/your-username/eda-business-insights">
   <img src="https://github.com/marlonkolivas/initial_report_and_exploratory_data_analsyis/blob/main/actual_pred.png?raw=true" alt="EDA Project Cover" width="100%" />
 </a>
@@ -97,26 +97,23 @@ A deep dive into data distributions, outliers, and missing values, demonstrating
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/initial_report_and_exploratory_data_analsyis)
 
 **Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn  
-
-
 </td>
-<td width="50%" valign="top">
 
-<a href="https://github.com/your-username/sql-analytics-validation">
-  <img src="https://github.com/marlonkolivas/practical_application_two/blob/main/images/top_ten_features_driving_car_price_ridge_regression.png?raw=true" alt="SQL Analytics Cover" width="100%" />
+
+<td width="50%" valign="top">
+<a href="https://github.com/your-username/hospital-los-modeling">
+  <img src="https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression/blob/main/heatmap1.png?raw=true" width="100%" />
 </a>
 
-#### 🗄️ `What Drives the Price of a Car?`
+#### `Explaining California Housing Prices Using Linear Regression`
 
-Analyze and determine the key factors influencing the question: “What drives the price of a car?”
+Built an interpretable linear regression model to explain and predict median house values in California districts using census-derived numeric features.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/practical_application_two)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression)
 
-**Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn  
-
+**Tools:** Python, Pandas, Linear Regression  
 </td>
 </tr>
-
 
 </table>
 </div>
