@@ -1,4 +1,4 @@
-## `Hi, I’m Marlon Kolivas` 👋 
+## `Hi, I’m Marlon Kolivas!` 👋 
 
  **`Aspiring Data Analyst & Data Scientist`**
 
