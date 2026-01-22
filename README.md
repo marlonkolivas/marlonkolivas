@@ -106,13 +106,13 @@ A deep dive into data distributions, outliers, and missing values, demonstrating
   <img src="https://github.com/marlonkolivas/practical_application_two/blob/main/images/top_ten_features_driving_car_price_ridge_regression.png?raw=true" alt="SQL Analytics Cover" width="100%" />
 </a>
 
-#### 🗄️ `SQL Analytics & Data Validation`
+#### 🗄️ `What Drives the Price of a Car?`
 
-Analytical SQL projects focused on reporting logic, joins, aggregations, and identifying data integrity issues in real datasets.
+Analyze and determine the key factors influencing the question: “What drives the price of a car?”
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/practical_application_two)
 
-**Tools:** SQL, MySQL, SQL Workbench  
+**Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn  
 
 </td>
 </tr>
