@@ -48,6 +48,36 @@ I am equally interested in deriving insights from data and building interpretabl
 
 <div align="center">
 <table width="1000">
+
+  <tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/your-username/ai-salary-prediction">
+  <img src="https://github.com/marlonkolivas/capstone_project_final_report/blob/main/images/salary_distribution.png?raw=true" alt="AI Salary Prediction Cover" width="100%" />
+</a>
+
+#### `Predicting Salaries in the Global AI Job Market Using Machine Learning`
+Built and evaluated interpretable regression models to understand the drivers of AI job salaries using cross-validation and model diagnostics.
+
+**Tools:** Python, Pandas, NumPy, Scikit-Learn, matplotlib, seaborn  
+🔗 [View Repository](https://github.com/marlonkolivas/capstone_project_final_report)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/your-username/hospital-los-modeling">
+  <img src="https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression/blob/main/heatmap1.png?raw=true" width="100%" />
+</a>
+
+#### `Explaining California Housing Prices Using Linear Regression`
+
+Built an interpretable linear regression model to explain and predict median house values in California districts using census-derived numeric features.
+
+**Tools:** Python, Pandas, Linear Regression  
+🔗 [View Repository](https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression/tree/main)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -79,41 +109,13 @@ Analytical SQL projects focused on reporting logic, joins, aggregations, and ide
 </td>
 </tr>
 
-<tr>
-<td width="50%" valign="top">
 
-<a href="https://github.com/your-username/ai-salary-prediction">
-  <img src="https://github.com/marlonkolivas/capstone_project_final_report/blob/main/images/salary_distribution.png?raw=true" alt="AI Salary Prediction Cover" width="100%" />
-</a>
-
-#### `Predicting Salaries in the Global AI Job Market Using Machine Learning`
-Built and evaluated interpretable regression models to understand the drivers of AI job salaries using cross-validation and model diagnostics.
-
-**Tools:** Python, Pandas, NumPy, Scikit-Learn, matplotlib, seaborn  
-🔗 [View Repository](https://github.com/marlonkolivas/capstone_project_final_report)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/your-username/hospital-los-modeling">
-  <img src="https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression/blob/main/heatmap1.png?raw=true" width="100%" />
-</a>
-
-#### `Explaining California Housing Prices Using Linear Regression`
-
-Built an interpretable linear regression model to explain and predict median house values in California districts using census-derived numeric features.
-
-**Tools:** Python, Pandas, Linear Regression  
-🔗 [View Repository](https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression/tree/main)
-
-</td>
-</tr>
 </table>
 </div>
 
 ---
 
-## 📈 Current Focus
+## 📈 `Current Focus`
 
 - Strengthening both **analytics and modeling fundamentals**
 - Expanding SQL and EDA projects with real-world datasets
@@ -122,7 +124,7 @@ Built an interpretable linear regression model to explain and predict median hou
 
 ---
 
-## 🎯 Philosophy
+## 🎯 `Philosophy`
 
 I believe effective data professionals:
 - Balance analytical insight with statistical rigor
