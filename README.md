@@ -103,15 +103,16 @@ A deep dive into data distributions, outliers, and missing values, demonstrating
 <td width="50%" valign="top">
 
 <a href="https://github.com/your-username/sql-analytics-validation">
-  <img src="https://raw.githubusercontent.com/your-username/sql-analytics-validation/main/assets/cover.png" alt="SQL Analytics Cover" width="100%" />
+  <img src="https://github.com/marlonkolivas/practical_application_two/blob/main/images/top_ten_features_driving_car_price_ridge_regression.png?raw=true" alt="SQL Analytics Cover" width="100%" />
 </a>
 
 #### 🗄️ `SQL Analytics & Data Validation`
 
 Analytical SQL projects focused on reporting logic, joins, aggregations, and identifying data integrity issues in real datasets.
 
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/practical_application_two)
+
 **Tools:** SQL, MySQL, SQL Workbench  
-🔗 [View Repository](https://github.com/your-username/sql-analytics-validation)
 
 </td>
 </tr>
