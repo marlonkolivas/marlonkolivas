@@ -59,8 +59,11 @@ I am equally interested in deriving insights from data and building interpretabl
 #### `Predicting Salaries in the Global AI Job Market Using Machine Learning`
 Built and evaluated interpretable regression models to understand the drivers of AI job salaries using cross-validation and model diagnostics.
 
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/capstone_project_final_report)
+
 **Tools:** Python, Pandas, NumPy, Scikit-Learn, matplotlib, seaborn  
-🔗 [View Repository](https://github.com/marlonkolivas/capstone_project_final_report)
+
+ 
 
 </td>
 <td width="50%" valign="top">
@@ -73,8 +76,10 @@ Built and evaluated interpretable regression models to understand the drivers of
 
 Built an interpretable linear regression model to explain and predict median house values in California districts using census-derived numeric features.
 
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression)
+
 **Tools:** Python, Pandas, Linear Regression  
-🔗 [View Repository](https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression/tree/main)
+
 
 </td>
 </tr>
