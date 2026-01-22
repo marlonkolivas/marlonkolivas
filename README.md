@@ -87,15 +87,17 @@ Built an interpretable linear regression model to explain and predict median hou
 <td width="50%" valign="top">
 
 <a href="https://github.com/your-username/eda-business-insights">
-  <img src="https://raw.githubusercontent.com/your-username/eda-business-insights/main/assets/cover.png" alt="EDA Project Cover" width="100%" />
+  <img src="https://github.com/marlonkolivas/initial_report_and_exploratory_data_analsyis/blob/main/actual_pred.png?raw=true" alt="EDA Project Cover" width="100%" />
 </a>
 
-#### 📊 `Exploratory Data Analysis & Business Insights`
+#### `Exploratory Data Analysis & Baseline Model Development`
 
 A deep dive into data distributions, outliers, and missing values, demonstrating how statistical diagnostics translate into real-world decision-making.
 
-**Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib  
-🔗 [View Repository](https://github.com/your-username/eda-business-insights)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/initial_report_and_exploratory_data_analsyis)
+
+**Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn  
+
 
 </td>
 <td width="50%" valign="top">
