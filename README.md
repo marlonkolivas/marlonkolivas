@@ -83,7 +83,6 @@ Analyze and determine the key factors influencing the question: “What drives t
 </tr>
 
 
-
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/your-username/eda-business-insights">
@@ -113,6 +112,29 @@ Built an interpretable linear regression model to explain and predict median hou
 
 **Tools:** Python, Pandas, Linear Regression  
 </td>
+</tr>
+
+
+<tr>
+<td width="50%" valign="top">
+
+
+</a>
+<img width="627" height="457" alt="image" src="https://github.com/user-attachments/assets/623d2361-1219-4d9a-82a7-af2073aea075" />
+
+
+#### `Loan Approval Analytics Project`
+
+Developed a classification model to predict loan default risk using financial and demographic features. Evaluated model performance using ROC-AUC, precision, recall, and confusion matrix analysis.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/loan_approval_analytics_project)
+
+**Tools:** SQL, Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
+
+</td>
+
+<td width="50%"></td>
+
 </tr>
 
 </table>
