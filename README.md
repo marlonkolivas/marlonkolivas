@@ -42,7 +42,6 @@ I am equally interested in deriving insights from data and building interpretabl
 </table>
 </div>
 
-
 ---
 ### 📌 `Featured Projects`
 
@@ -64,13 +63,12 @@ Built and evaluated interpretable regression models to understand the drivers of
 **Tools:** Python, Pandas, NumPy, Scikit-Learn, matplotlib, seaborn  
 </td>
 
-
 <td width="50%" valign="top">
 <a href="https://github.com/your-username/sql-analytics-validation">
   <img src="https://github.com/marlonkolivas/practical_application_two/blob/main/images/top_ten_features_driving_car_price_ridge_regression.png?raw=true" alt="SQL Analytics Cover" width="100%" />
 </a>
 
-#### 🗄️ `What Drives the Price of a Car?`
+#### `What Drives the Price of a Car?`
 
 Analyze and determine the key factors influencing the question: “What drives the price of a car?”
 
@@ -81,7 +79,6 @@ Analyze and determine the key factors influencing the question: “What drives t
 **Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn  
 </td>
 </tr>
-
 
 <tr>
 <td width="50%" valign="top">
@@ -98,7 +95,6 @@ A deep dive into data distributions, outliers, and missing values, demonstrating
 **Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn  
 </td>
 
-
 <td width="50%" valign="top">
 <a href="https://github.com/your-username/hospital-los-modeling">
   <img src="https://github.com/marlonkolivas/explaining_california_housing_prices_using_linear_regression/blob/main/heatmap1.png?raw=true" width="100%" />
@@ -114,18 +110,14 @@ Built an interpretable linear regression model to explain and predict median hou
 </td>
 </tr>
 
-
 <tr>
 <td width="50%" valign="top">
 
-
-</a>
 <img width="627" height="457" alt="image" src="https://github.com/user-attachments/assets/623d2361-1219-4d9a-82a7-af2073aea075" />
-
 
 #### `Loan Approval Analytics Project`
 
-Developed a classification model to predict loan default risk using financial and demographic features. Evaluated model performance using ROC-AUC, precision, recall, and confusion matrix analysis.
+Developed a classification model to predict loan approval outcomes using financial and demographic features. Evaluated performance using ROC-AUC, precision, recall, and confusion matrix analysis.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/loan_approval_analytics_project)
 
@@ -133,8 +125,20 @@ Developed a classification model to predict loan default risk using financial an
 
 </td>
 
-<td width="50%"></td>
+<td width="50%" valign="top">
 
+<img width="627" height="470" alt="image" src="https://github.com/marlonkolivas/Cyclistic-Bike-Share-Analysis-Member-vs-Casual-Rider-Behavior/blob/main/images/dashboard.png" />
+
+
+#### `Cyclistic Bike-Share Usage Analysis`
+
+Analyzed bike-share usage patterns across rider segments to identify behavioral differences between casual riders and annual members, then translated those findings into business recommendations supported by data visualization.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/Cyclistic-Bike-Share-Analysis-Member-vs-Casual-Rider-Behavior/tree/main)
+
+**Tools:** Excel, SQL, Tableau  
+
+</td>
 </tr>
 
 </table>
