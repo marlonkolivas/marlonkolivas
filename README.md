@@ -113,7 +113,7 @@ Built an interpretable linear regression model to explain and predict median hou
 <tr>
 <td width="50%" valign="top">
 
-<img width="627" height="457" alt="image" src="https://github.com/user-attachments/assets/623d2361-1219-4d9a-82a7-af2073aea075" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/623d2361-1219-4d9a-82a7-af2073aea075" />
 
 #### `Loan Approval Analytics Project`
 
@@ -127,16 +127,16 @@ Developed a classification model to predict loan approval outcomes using financi
 
 <td width="50%" valign="top">
 
-<img width="627" height="470" alt="image" src="https://github.com/marlonkolivas/Cyclistic-Bike-Share-Analysis-Member-vs-Casual-Rider-Behavior/blob/main/images/dashboard.png" />
+<img width="500" height="600" alt="image" src="https://github.com/marlonkolivas/cyclistic-bike-share-membership-conversion-analysis/blob/main/assets/cyclistic_dashboard.gif" />
 
 
-#### `Cyclistic Bike-Share Usage Analysis`
+#### `Cyclistic Bike-Share Membership Conversion Analysis`
 
-Analyzed bike-share usage patterns across rider segments to identify behavioral differences between casual riders and annual members, then translated those findings into business recommendations supported by data visualization.
+This project analyzes bike-share rider behavior using Python and Tableau, combining data cleaning, feature engineering, and visualization to uncover key usage patterns. The analysis focuses on understanding the differences between members and casual riders and identifying high-value opportunities to convert casual users into long-term members.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/Cyclistic-Bike-Share-Analysis-Member-vs-Casual-Rider-Behavior/tree/main)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonkolivas/cyclistic-bike-share-membership-conversion-analysis)
 
-**Tools:** Excel, SQL, Tableau  
+**Tools:** Python (numpy & pandas, Tableau (data visualization) 
 
 </td>
 </tr>
