@@ -127,7 +127,7 @@ Developed a classification model to predict loan approval outcomes using financi
 
 <td width="50%" valign="top">
 
-<img width="500" height="500" alt="image" src="https://github.com/marlonkolivas/cyclistic-bike-share-membership-conversion-analysis/blob/main/assets/cyclistic_dashboard.gif" />
+<img width="400" height="400" alt="image" src="https://github.com/marlonkolivas/cyclistic-bike-share-membership-conversion-analysis/blob/main/assets/cyclistic_dashboard.gif" />
 
 
 #### `Cyclistic Bike-Share Membership Conversion Analysis`
