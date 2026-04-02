@@ -113,7 +113,7 @@ Built an interpretable linear regression model to explain and predict median hou
 <tr>
 <td width="50%" valign="top">
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/623d2361-1219-4d9a-82a7-af2073aea075" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/623d2361-1219-4d9a-82a7-af2073aea075" />
 
 #### `Loan Approval Analytics Project`
 
