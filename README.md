@@ -1,10 +1,9 @@
 ## `Hi, I’m Marlon Kolivas!` 👋 
+ **`Aspiring Data Analyst`**
 
- **`Aspiring Data Analyst & Data Scientist`**
+I am a data-driven professional focused on building a strong portfolio in data analytics, statistical analysis, and data visualization, with complementary experience in machine learning. My work emphasizes rigorous methodology, clear and actionable insights, and effective communication of findings to support decision-making.
 
-I am an analytically driven professional building a strong portfolio across **data analysis, statistical modeling, and machine learning**. My work spans both **data analytics** and **data science**, with an emphasis on sound methodology, clear communication, and responsible use of data.
-
-I am equally interested in deriving insights from data and building interpretable models that explain and predict real-world phenomena.
+While my primary focus is on extracting meaningful insights from data, I also develop interpretable machine learning models to enhance analysis and provide predictive context where appropriate.
 
 ---
 
@@ -15,15 +14,15 @@ I am equally interested in deriving insights from data and building interpretabl
 <tr>
 <td width="82%" valign="top">
 
-- 📊 Interested in **data analysis, reporting, and exploratory data analysis**
-- 📈 Actively developing skills in **statistical modeling and supervised and unsupervised machine learning**
-- 🧠 Comfortable working across the full data lifecycle:
-  - Data acquisition and cleaning  
-  - Exploratory data analysis  
-  - Feature engineering  
-  - Modeling and evaluation  
-- 🔍 Strong emphasis on **interpretability, diagnostics, and bias awareness**
-- 📚 Building a portfolio aligned with industry and academic standards
+- 📊 Focused on data analysis, reporting, and exploratory data analysis, with an emphasis on generating clear, actionable insights
+- 📈 Developing skills in statistical analysis and applied machine learning to support deeper analysis and predictive context
+- 🧠 Experienced across the end-to-end data lifecycle:
+	- Data acquisition and cleaning
+	- Exploratory data analysis (EDA)
+	- Feature engineering
+	- Modeling and evaluation
+- 🔍 Strong emphasis on interpretability, diagnostics, and bias awareness to ensure reliable and trustworthy insights
+- 📚 Building a portfolio aligned with industry best practices and real-world business applications
 
 </td>
 <td width="18%" valign="top" align="center">
@@ -148,17 +147,17 @@ This project analyzes bike-share rider behavior using Python and Tableau, combin
 
 ## 📈 `Current Focus`
 
-- Strengthening both **analytics and modeling fundamentals**
-- Expanding SQL and EDA projects with real-world datasets
-- Improving model evaluation, diagnostics, and interpretability
-- Writing clearer, decision-oriented analytical narratives
+- Strengthening core data analytics and statistical analysis foundations
+- Expanding SQL and exploratory data analysis (EDA) projects using real-world datasets
+- Enhancing model evaluation, interpretability, and diagnostic techniques to support reliable insights
+- Developing clear, decision-oriented analytical narratives for effective stakeholder communication
 
 ---
 
 ## 🎯 `Philosophy`
 
-I believe effective data professionals:
-- Balance analytical insight with statistical rigor
-- Understand data limitations and bias
-- Choose appropriate complexity for the problem
-- Communicate findings clearly to diverse audiences
+I approach data analysis as a discipline grounded in clarity, rigor, and practical impact. I believe effective data professionals:
+- Prioritize actionable insights over unnecessary complexity, focusing on solving real business problems
+- Apply statistical thinking with sound judgment, recognizing assumptions, limitations, and potential bias in data
+- Select appropriate methods and tools based on the problem—not on trends or technical novelty
+- Communicate findings through clear, structured narratives that drive informed decision-making
